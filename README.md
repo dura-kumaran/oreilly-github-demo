@@ -5,9 +5,9 @@ A great example repo you can fork to your heart’s content, that serves as a la
 
 ## Getting started
 
-The first thing you want to do with this repo is quite likely **fork it**.  Use the Fork button in the top-right section of the page to do this.
+The first thing you want to do with this repo is quite likely [**fork it**](https://docs.github.com/en/pull-requests/reference/forks).  Use the Fork button in the top-right section of the page to do this.
 
-Once you’re on your fork, you can experiment however you like with it, play with branches, issues, milestones, labels, the wiki, and more.
+Once you’re on your fork, you can experiment however you like with it, play with [branches](https://docs.github.com/en/pull-requests/reference/branches), [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues), [milestones](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones), [labels](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels), the [wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/adding-or-editing-wiki-pages), and more.
 
 ## What’s in there?
 
